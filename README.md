@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zyteo
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning software engineering fundamentals 💞️ 📫
+- 🌱 I’m currently enrolled in General Assembly's Software Engineering Immersive. Graduating end Nov 2021.💞️ 📫
 
 Projects:
 - [Snake and Ladders](https://snake-and-ladders.vercel.app/)
