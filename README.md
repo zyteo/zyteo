@@ -2,6 +2,10 @@
 - 👀 I’m interested in learning new stuff
 - 🌱 I’m currently enrolled in General Assembly's Software Engineering Immersive. Graduating end Nov 2021.💞️ 📫
 
+Frameworks / Languages: JavaScript, jQuery, HTML, CSS, ReactJS, Express, MongoDB, NodeJS, Python
+
+I've dabbled in: MATLAB, R
+
 Projects:
 - [Snake and Ladders](https://snake-and-ladders.vercel.app/)
 - [LighTide - get sunset/sunrise/tide details](https://lightide.vercel.app/)
