@@ -9,10 +9,10 @@ I've dabbled in: MATLAB, R
 Projects:
 - [Snake and Ladders](https://snake-and-ladders.vercel.app/)
 - [LighTide - get sunset/sunrise/tide details](https://lightide.vercel.app/)
-- [Animal Shelter Website](https://theshelterpeople.herokuapp.com/)
+- [Animal shelter website prototype](https://theshelterpeople.herokuapp.com/)
 - [PokeGIF - My 1st Decentralised App](https://pokegif.vercel.app/)
 - [GifGet - For all you GIF lovers](https://gifget.vercel.app)
-- [BaoBae - TaoBao clone](https://github.com/zyteo/BaoBae#accessing-the-application)
+- [BaoBae - TaoBao clone Mobile App](https://github.com/zyteo/BaoBae#accessing-the-application)
 <!---
 zyteo/zyteo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
