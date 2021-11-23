@@ -17,6 +17,7 @@ Projects:
 - [BaoBae - TaoBao clone Mobile App](https://github.com/zyteo/BaoBae#accessing-the-application)
 - [Turn based NFT game - Runs on Ethereum testnet](https://lazytokens.vercel.app/)
 
+Spot a bug? Reach out [here.](https://www.linkedin.com/in/zhi-ying-t/)
 
 <!---
 zyteo/zyteo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
