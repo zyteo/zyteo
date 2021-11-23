@@ -4,7 +4,9 @@
 
 Frameworks / Languages: JavaScript, jQuery, HTML, CSS, ReactJS, Express, MongoDB, NodeJS, Python
 
-I've dabbled in: MATLAB, R
+My first foray into programming was MATLAB. 
+Since then, I've dabbled in R, [Maple](https://en.wikipedia.org/wiki/Maple_(software)), Python, etc...
+It's been about 3 years since I first started coding.
 
 Projects:
 - [Snake and Ladders](https://snake-and-ladders.vercel.app/)
@@ -13,6 +15,9 @@ Projects:
 - [PokeGIF - My 1st Decentralised App](https://pokegif.vercel.app/)
 - [GifGet - For all you GIF lovers](https://gifget.vercel.app)
 - [BaoBae - TaoBao clone Mobile App](https://github.com/zyteo/BaoBae#accessing-the-application)
+- [Turn based NFT game - Runs on Ethereum testnet](https://lazytokens.vercel.app/)
+
+
 <!---
 zyteo/zyteo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
