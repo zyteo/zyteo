@@ -4,9 +4,9 @@
 
 Frameworks / Languages: JavaScript, jQuery, HTML, CSS, ReactJS, Express, MongoDB, NodeJS, Python
 
-My first foray into programming was MATLAB. 
-Since then, I've dabbled in R, [Maple](https://en.wikipedia.org/wiki/Maple_(software)), Python, etc...
-It's been about 3 years since I first started coding.
+My first foray into programming was MATLAB.  
+Since then, I've dabbled in R, [Maple](https://en.wikipedia.org/wiki/Maple_(software)), Python, etc...  
+It's been about 3 years since I first started coding.  
 
 Projects:
 - [Snake and Ladders](https://snake-and-ladders.vercel.app/)
