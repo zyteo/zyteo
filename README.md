@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zyteo
-- 👀 I’m interested in learning new stuff
-- 🌱 I just graduated from General Assembly's Software Engineering Immersive.💞️ 📫
+- 👀 Am constantly learning
+- 🌱💞️ 📫
 
 Frameworks / Languages: JavaScript, jQuery, HTML, CSS, ReactJS, Express, MongoDB, NodeJS, Python
 
