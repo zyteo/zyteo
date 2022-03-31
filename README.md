@@ -2,11 +2,9 @@
 - 👀 Am constantly learning
 - 🌱💞️ 📫
 
-Frameworks / Languages: JavaScript, jQuery, HTML, CSS, ReactJS, Express, MongoDB, NodeJS, Python
+Tech Stack: JavaScript, jQuery, HTML, CSS, Bootstrap, MongoDB, Express, ReactJS, NodeJS, and counting...
 
-My first foray into programming was MATLAB.  
-Since then, I've dabbled in R, [Maple](https://en.wikipedia.org/wiki/Maple_(software)), Python, etc...  
-It's been about 3 years since I first started coding.  
+Environmental Science graduate turned Software Engineer. Believes in working hard and working smart, going for efficiency but never in cutting corners. Logical thinking with a wide perspective, peppered from my overseas experiences. Ever curious and eager to learn.
 
 Projects:
 - [Snake and Ladders](https://snake-and-ladders.vercel.app/)
