@@ -17,6 +17,7 @@ Projects:
 - [BaoBae - TaoBao clone Mobile App](https://github.com/zyteo/BaoBae#accessing-the-application)
 - [Turn based NFT game - Runs on Ethereum testnet](https://lazytokens.vercel.app/)
 - [OSRS Jad simulator](https://osrsjad.netlify.app/)
+- [MiniMasters showcase](https://github.com/zyteo/fleximasters#fleximasters)
 
 <!-- - [Animal shelter website - refined from prototype](https://theshelterpeople-sg.herokuapp.com/) -->
 <!-- - [Login - MERN + localisation](https://login-mern-jwt.herokuapp.com/) / [Login - Java Springboot, React, Mongo + localisation](https://login-springboot.vercel.app) -->
