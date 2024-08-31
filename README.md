@@ -11,7 +11,7 @@ Full-stack + Data Wrangling & Analysis
 
 Projects:
 - [LighTide - Get sunset/sunrise/tide details](https://lightide.vercel.app/)
-- [Cat shelter website](https://the-shelter-people.vercel.app/)
+<!-- - [Cat shelter website](https://the-shelter-people.vercel.app/) -->
 - [Old School RuneScape (OSRS) Jad simulator](https://osrsjad.netlify.app/)
 - [Snake and Ladders](https://snake-and-ladders.vercel.app/)
 - [NTU MiniMasters showcase](https://github.com/zyteo/fleximasters#fleximasters)
