@@ -12,8 +12,12 @@ Full-stack + Data Wrangling & Analysis
 Projects:
 - [LighTide - Get sunset/sunrise/tide details](https://lightide.vercel.app/)
 - [ActiveSG programmes filter - Weekend programmes by location](https://asgfilter.vercel.app/)
+
+Games:
 - [Old School RuneScape (OSRS) Jad simulator](https://osrsjad.netlify.app/)
 - [Snake and Ladders](https://snake-and-ladders.vercel.app/)
+
+Just for fun:
 - [NTU MiniMasters showcase](https://github.com/zyteo/fleximasters#fleximasters)
 - [GifGet - For all you GIF lovers](https://gifget.vercel.app)
 - [BaoBae - TaoBao clone Mobile App](https://github.com/zyteo/BaoBae#accessing-the-application)
